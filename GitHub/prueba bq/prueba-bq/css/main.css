@@ -1,0 +1,116 @@
+img{
+	display: inline-block;
+	max-width: 100%;
+}
+
+/* HEADER =============================== */
+
+header{
+	width: 100%;
+}
+
+header h1{
+	background-color: #FFF
+	color: #736f79;
+	padding: 5px 0;
+	margin: 0;
+	font-size: 24px;
+}
+
+header nav{
+	width: 100%;
+}
+
+header nav, header nav li{
+	background-color: #333333;
+}
+
+header nav a{
+	display: block;	
+	color: #FFF;
+	padding: 10px 0;
+}
+
+/* MAIN =============================== */
+
+main{	
+	padding: 54px 15px;
+	background-color: #f3f3f3;
+}
+
+section h1{
+	margin-bottom: 20px;
+	color: #736f66;
+	font-size: 22px;
+}
+
+/* categories ========================= */
+
+#categories ul a{
+	background-color: #333333;
+	color: #FFF;
+	display: block;
+	padding: 10px 15px;
+}
+
+#categories ul ul a{
+	background-color: #999;
+}
+
+/* catalogue ========================= */
+
+#catalogue li{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+/* featured ========================== */
+
+#featured h2{
+	font-size: 18px;
+	font-weight: bold;
+	color: #736f66;
+}
+
+#featured .cont-featured{
+	padding-top: 20px;
+}
+
+#featured .mod-img{
+	margin-bottom: 20px;
+}
+
+#featured .btn{
+	float: right;
+	background-color: #333;
+	color: #FFF;
+}
+
+
+/* FOOTER =============================== */
+
+footer{
+	background-color: #333;
+	padding: 20px 0 100px 0;
+}
+
+footer .main-text{
+	font-size: 25px;
+}
+
+footer p{
+	color: #FFF;
+	margin-bottom: 40px;
+
+}
+
+footer a{
+	color: #FFF;
+	display: block;
+	margin-bottom: 20px;
+}
+
+footer ul, footer ol{
+	display: inline-block;
+	color: #FFF;
+}

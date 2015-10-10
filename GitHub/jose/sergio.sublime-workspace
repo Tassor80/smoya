@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"a",
+				"altura"
+			],
+			[
+				"max",
+				"max_height"
+			],
+			[
+				"init",
+				"init_height"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bordert",
+				"border-top-color"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"suma",
+				"sumaFecha"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"list-s",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: init",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git: init",
+			"Git: init",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/sergio"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/yuritest/css/inicio.css",
+		"/C/wamp/www/yuritest/sass/modulos/header.scss",
+		"/C/wamp/www/fanontour/00_home.html",
+		"/C/wamp/www/fanontour/less/1-utilities/mixins.less",
+		"/C/wamp/www/bkool/sass/bkool/_theme.scss",
+		"/C/wamp/www/bkool/sass/bkool/_general.scss",
+		"/C/wamp/www/yuritest/js/main.js",
+		"/C/wamp/www/bkool/sass/bkool/_variables.scss",
+		"/C/wamp/www/redbility/prueba-redbility/less/2-quarks/typography.less",
+		"/C/wamp/www/redbility/prueba-redbility/less/6-matter/media-645.less",
+		"/C/wamp/www/fanontour/css/main.css",
+		"/C/wamp/www/redbility/prueba-redbility/less/1-utilities/mixins.less",
+		"/C/wamp/www/yuritest/index.html",
+		"/C/wamp/www/redbility/prueba-redbility/less/6-matter/media-768.less",
+		"/C/wamp/www/redbility/prueba-redbility/less/2-quarks/button.less",
+		"/C/wamp/www/yuritest/sass/template.scss",
+		"/C/wamp/www/yuritest/sass/modulos/test.scss",
+		"/C/wamp/www/yuritest/sass/inicio.scss",
+		"/C/wamp/www/yuritest/sass/modulos/footer.scss",
+		"/C/wamp/www/yuritest/sass/grid.scss",
+		"/C/wamp/www/yuritest/sass/mi-reset.scss",
+		"/C/wamp/www/fanontour/js/main.js",
+		"/C/wamp/www/bkool/sass/bkool/_accordion.scss",
+		"/C/wamp/www/bkool/sass/bkool_bootstrap.scss",
+		"/C/wamp/www/yuritest/README.txt",
+		"/C/wamp/www/yuritest/sass/inicio.css",
+		"/C/wamp/www/fanontour/js/test.js",
+		"/C/wamp/www/fanontour/js/private.js",
+		"/C/wamp/www/fanontour/js/results.js",
+		"/C/wamp/www/jmocana/entrevista/Los Elementos de la Experiencia de Usuario.txt",
+		"/C/wamp/www/jmocana/entrevista/recursos.txt",
+		"/C/Users/JoseMaría/Documents/empresas-fail",
+		"/C/Users/JoseMaría/Documents/oferta-infojobs.txt",
+		"/C/wamp/www/jmocana/entrevista/test.txt",
+		"/F/www/bbva_anida/Gruntfile.js",
+		"/C/wamp/www/bbva_anida/home.html",
+		"/C/wamp/www/bbva_anida/package.json",
+		"/C/wamp/www/bbva_anida/Gruntfile.js",
+		"/C/Users/JoseMaría/Documents/clv/pass.txt",
+		"/C/wamp/www/sfotipy/backbone/bower.json",
+		"/C/wamp/www/prueba-bq/index.html",
+		"/C/wamp/www/sfotipy/backbone/gruntfile.js",
+		"/C/Users/JoseMaría/Documents/clv/datos.txt",
+		"/F/juego-tronos/Juego de Tronos - Temporada 5 [HDTV 1080p][Cap.504][AC3 5.1 Español Castellano]/Importante leer !!!!!.txt",
+		"/C/wamp/www/puls2014-America/sergio.css",
+		"/C/wamp/www/puls2014-America/sergio.html",
+		"/C/wamp/www/sfotipy/backbone/app/js/app.js",
+		"/C/wamp/www/envivo/bower.json",
+		"/C/Users/JoseMaría/.ssh/github_rsa.pub",
+		"/C/wamp/www/envivo/envivo/bower.json",
+		"/C/wamp/www/envivo/index.js",
+		"/C/wamp/www/envivo/bower_components/jquery/bower.json",
+		"/C/wamp/www/envivo/index.jsp",
+		"/C/wamp/www/sfotipy/backbone/package.json",
+		"/C/wamp/www/sfotipy/backbone/envivo/package.json",
+		"/C/wamp/www/sfotipy/backbone/envivo/bower.json",
+		"/C/wamp/www/sfotipy/backbone/envivo/index.js",
+		"/C/liferay-6.2/plugins/themes/temaPrueba-theme/build.xml",
+		"/C/wamp/www/sfotipy/backbone/server.js",
+		"/C/wamp/www/pokedex/public/index.html",
+		"/C/wamp/www/pokedex/public/img/pokemons/bulbasaur.jpg",
+		"/C/Users/JoseMaría/Downloads/liferay/liferay-portal-6.2-ce-ga4/readme.html",
+		"/C/wamp/www/pokedex/public/js/app.js",
+		"/C/Users/JoseMaría/Downloads/nicedevice.less",
+		"/C/Users/JoseMaría/Downloads/clase1/index.html",
+		"/C/wamp/www/pokedex/Gruntfile.js",
+		"/C/wamp/www/pokedex/public/views/pokemon.html",
+		"/C/wamp/www/pokedex/public/js/filters.js",
+		"/C/wamp/www/pokedex/public/js/directives.js",
+		"/C/wamp/www/pokedex/public/js/controllers.js",
+		"/C/wamp/www/pokedex/public/partials/pokemon-data.html",
+		"/C/wamp/www/pokedex/package.json",
+		"/C/Users/JoseMaría/Desktop/GitHubLog.txt",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/pages/results/results/flights.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/templates/flights-baseLayout.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/resources/xml/flights.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/tiles.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/pages/results/01_results-flights.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/pages/include/modals/modal-box.jsp",
+		"/C/Users/JoseMaría/Downloads/fot/FOT5s/WebContent/WEB-INF/pages/results/results/flights.jsp",
+		"/C/wamp/www/fanontour/01_results-activities.html",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/resources/js/results.js",
+		"/C/Users/JoseMaría/Downloads/fot/FOT5s/WebContent/resources/js/results.js",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/pages/footer.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/footer.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/WebContent/WEB-INF/templates/baseLayout.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/WEB-INF/templates/baseLayout.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/resources/js/main.js",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s_old/WebContent/resources/public/vendor/bower-components/moment/min/moment.min.js",
+		"/C/Users/JoseMaría/Downloads/fot/FOT5s/WebContent/index.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/build/build/web/WEB-INF/pages/include/modals/modal-box.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/build/build/web/WEB-INF/pages/results/results/flights.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/WebContent/WEB-INF/pages/results/results/flights.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT07/build.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/build/build.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/WebContent/WEB-INF/pages/results/01_results-flights.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/WebContent/WEB-INF/pages/include/modals/modal-box.jsp",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/FOT5s/WebContent/WEB-INF/pages/include/modals/modal-box.html",
+		"/C/Users/JoseMaría/Downloads/fot/FOT06/pom.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/FOT05/build.xml",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/FOT05/nbproject/build-impl.xml",
+		"/C/wamp/www/fanontour/01_results-flights.html",
+		"/C/wamp/www/fanontour/xml/results/flights.xml",
+		"/C/wamp/www/fanontour/include/modals/modal-box.html",
+		"/C/Users/JoseMaría/Documents/NetBeansProjects/FOT5s/FOT05/build/web/index.html",
+		"/C/wamp/www/fanontour/public/vendor/bower-components/moment/min/moment.min.js",
+		"/C/wamp/www/fanontour/public/vendor/bower-components/moment/min/moment-fot0.min.js",
+		"/C/wamp/www/fanontour/include/forms/date.html",
+		"/C/wamp/www/fanontour/prueba.html",
+		"/C/wamp/www/fanontour/less/2-quarks/title.less",
+		"/C/wamp/www/fanontour/01_results-customized-tour.html",
+		"/C/wamp/www/fanontour/less/4-molecules/results.less",
+		"/C/wamp/www/fanontour/less/3-atoms/buttons.less",
+		"/C/wamp/www/fanontour/less/3-atoms/panels.less",
+		"/C/wamp/www/fanontour/less/3-atoms/tables.less",
+		"/C/wamp/www/fanontour/05_my-next-tours.html",
+		"/C/wamp/www/fanontour/less/4-molecules/fanontour-mod.less",
+		"/C/wamp/www/fanontour/05_my-last-tours.html",
+		"/C/wamp/www/fanontour/01_results-tickets.html",
+		"/C/wamp/www/fanontour/include/modals/alert.html",
+		"/C/wamp/www/jasmine/spec/PlayerSpec.js",
+		"/C/wamp/www/jasmine/spec/SpecHelper.js",
+		"/C/wamp/www/jasmine/SpecRunner.html",
+		"/C/wamp/www/fanontour/05_my-fanfriends.html",
+		"/C/wamp/www/fanontour/03_log-in_1.html",
+		"/C/wamp/www/fanontour/04_register.html",
+		"/C/wamp/www/fanontour/project.html",
+		"/C/wamp/www/fanontour/README.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>",
+			"Open files"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"modal",
+			"main",
+			"main.js",
+			"<span></span>No</label> ",
+			" value=\"false\"><span></span>Yes</label>",
+			"<input type=\"radio\" name=\"booked_01\" value=\"false\"><span></span>Yes</label>",
+			"<input type=\"radio\" name=\"booked_02\" value=\"false\"><span></span>Not booked</label>",
+			"<input type=\"radio\" name=\"booked_02\" value=\"false\"><span></span>Booked</label>",
+			"No",
+			"Yes",
+			"t_border",
+			"alert(",
+			"alert",
+			"order",
+			"ordenar",
+			"paginarFanontour",
+			"orderFanontour",
+			"small",
+			"getXMLObject",
+			"data",
+			".on",
+			"on",
+			"conditions",
+			"modal",
+			"<",
+			">",
+			"<",
+			"modal",
+			"icon-icons-fanontour_source",
+			"70 minutes",
+			"<span>(&euro;)</span>",
+			"<return_time2>19:00</return_time2>	",
+			"<outbund_time2>07:30</outbund_time2>",
+			"inc",
+			"confirm",
+			"<input class=\"number\"",
+			"fanFriend",
+			"<li>Found in: <strong><a href=\"#\">seatweave</a></strong></li>",
+			"base",
+			"alert",
+			"arrival_time",
+			"departure_time",
+			"customized",
+			"password",
+			"fanontour-mod-friend",
+			"col-md-3",
+			"col-sm-4",
+			"col-sm-3",
+			"fanontour-mod-user",
+			"filter-one-plus-stops-input",
+			"JSON",
+			">\n",
+			"%2520",
+			"order",
+			"ordenar",
+			"set",
+			"console",
+			"layout",
+			"tooltip",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			"edenred",
+			"bookatable",
+			"console",
+			"ticket.jpg",
+			"Calle del Marques de Villamagna, 4 Madrid, Madrid, 28001 España, 911 776 378",
+			"\"",
+			" .tse-content",
+			"name",
+			"source",
+			"Buy",
+			"fanontour-icon icon-icons-fanontour_source\"></span> Found in",
+			"Book here",
+			"<script src=\"public/vendor/jquery/jquery.trackpad-scroll-emulator.min.js\"></script>",
+			"collapse1",
+			"aria-labelledby=\"items-field-01\"",
+			"aria-labelledby=\"sort-field-01\"",
+			"<label for=\"price-slider\">",
+			"<label for=\"sort-field-01\">Sort by</label>",
+			"<label for=\"items-field-01\">Items per page:</label>",
+			"modal",
+			"class=\"form-control\" id=\"sort-field-01\"",
+			"class=\"form-control\" id=\"items-field-01\"",
+			"id=\"list_results\"",
+			"paginarFanontour($(\"#items-field-01\").val(), id_page);",
+			"orderFanontour($(\"#sort-field-01\").attr(\"data-value\"));",
+			"restaurants",
+			"<input id=\"price-slider\" type=\"text\" class=\"span2\" value=\"\" data-slider-min=\"0\" data-slider-max=\"4000\" data-slider-step=\"1\" data-slider-value=\"[0,4000]\" data-slider-orientation=\"horizontal\" data-slider-selection=\"after\" data-slider-tooltip=\"show\" data-slider-formater=\"Euros\" >",
+			"class=\"form-control\" id=\"items-field-01\"",
+			"class=\"form-control\" id=\"sort-field-01\"",
+			"id=\"sort-field-01\"",
+			"id=\"list_results\"",
+			"class=\"col-sm-6\"",
+			"<a href=\"#\">Primesport.com</a>",
+			"ddropdown",
+			"dropdown",
+			"este club. Su casa, el Camp Nou, esta considerado uno de los mas prestigiosos campos europeos, ademas, el visitante podra recorrer a sus anchas su interesante museo del futbol que se encuentra en la parte inferior.",
+			"http://xml.rentalcars.com/images/car_images/V/mercedes-benz_viano.jpg",
+			"dropdown",
+			"paginar",
+			"items-field-01",
+			"form-inline",
+			"setMinHeight",
+			"list_results",
+			"height",
+			"setResults",
+			"items",
+			"results",
+			"min-heigh",
+			"scroll",
+			">",
+			"<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<span></span>Not booked</label> ",
+			" value=\"false\"><span></span>Booked</label>",
+			"<input type=\"radio\" name=\"booked_01\" value=\"false\"><span></span>Booked</label>",
+			"<input type=\"radio\" name=\"booked_02\" value=\"false\" title=\"Choose this option if you want to delete it\"><span></span>Not booked</label>",
+			"<input type=\"radio\" name=\"booked_02\" value=\"false\" title=\"Choose this option if booked\"><span></span>Booked</label>",
+			"Not booked",
+			"Booked",
+			"",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"icon-icons-fanontour_source2",
+			"2 hours",
+			"",
+			"<return_time2>19:30</return_time2>",
+			"<outbund_time2>08:30</outbund_time2>",
+			"<input class=\"number\" name=\"alert\"",
+			"FanFriend",
+			"",
+			"return_time",
+			"outbund_time",
+			"fanontour-mod-people",
+			"col-md-4 col-lg-3",
+			"col-sm-6",
+			"col-sm-4 col-md-3",
+			"fanontour-mod-friend",
+			"%20",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"bookatable",
+			"wegolo.png",
+			"Calle del Marques de Villamagna, 4",
+			"'",
+			"",
+			"source_name",
+			"Book here",
+			"fanontour-icon icon-icons-fanontour_source2\"></span>Found in",
+			"Buy",
+			"",
+			"<label>",
+			"<label>Sort by</label>",
+			"<label>Items per page:</label>",
+			"class=\"sort-field-01 form-control\"",
+			"class=\"items-field-01 form-control\"",
+			"class=\"list_results\"",
+			"paginarFanontour($(id_page + \" .items-field-01\").val(), id_page, 0);",
+			"orderFanontour($(id_page + \" .sort-field-01\").attr(\"data-value\"));",
+			"",
+			"class=\"form-control items-field-01\"",
+			"class=\"form-control sort-field-01\"",
+			"class=\"sort-field-01\"",
+			"class=\"list_results\"",
+			"",
+			"Primesport.com",
+			"La pasión con la que este equipo es apoyado y respetado allá donde va es una prueba de la grandeza de este club. Su casa, el Camp Nou, esta considerado uno de los mas prestigiosos campos europeos, ademas, el visitante podra recorrer a sus anchas su interesante museo del futbol que se encuentra en la parte inferior.",
+			"/fanontour/img/results/car.jpg",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"col-sm-6",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"No selected",
+			"Selected",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"@",
+			"in text",
+			"Style",
+			"Class Name",
+			"&gt;",
+			"&lt;",
+			"icon-icons-fanontour_search",
+			"&gt;",
+			"&lt;",
+			"",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"&gt;",
+			"&lt;",
+			"Label",
+			"25px",
+			"fanontour-icon",
+			"Small text",
+			"This is a title",
+			"Text of paragraph",
+			"small-text",
+			"glyphicon-chevron-right",
+			"glyphicon-share-alt",
+			"@color_line",
+			"stopPropagation",
+			"small-field-h",
+			"Madona",
+			"night",
+			"col-xs-6 col-sm-4 col-md-3",
+			"sm-4",
+			"search",
+			"see event",
+			"My first tour: Madrid",
+			"by jmocana"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "sergio.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
