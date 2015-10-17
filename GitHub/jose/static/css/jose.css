@@ -42,6 +42,11 @@ ul
 	padding-bottom: 25px;
 }
 
+.section-main span{
+	padding-left: 14px;
+	display: inline-block;
+}
+
 .section-main__title{
 	font-family: OpenSans;
 	font-size: 1.111em;
@@ -132,8 +137,7 @@ ul
 	font-style: italic;	
 	left: 0;
 	padding-bottom: 22px;
-	padding-left: 0px;
-	padding-left: 21px;
+	width: 100%;
 	padding-top: 22px;
 	position: absolute;
 	top: 323px;
@@ -146,11 +150,10 @@ ul
 	font-style: italic;	
 	left: 0;
 	padding-bottom: 22px;
-	padding-left: 0px;
-	padding-left: 21px;
 	padding-top: 22px;
 	position: absolute;
 	top: 323px;
+	width: 100%;
 }
 .section-main__description3{
 	background-color: rgba(255,255,255,.9);
@@ -160,8 +163,7 @@ ul
 	font-style: italic;	
 	left: 0;
 	padding-bottom: 22px;
-	padding-left: 0px;
-	padding-left: 21px;
+	width: 100%;
 	padding-top: 22px;
 	position: absolute;
 	top: 323px;
@@ -174,11 +176,11 @@ ul
 	font-style: italic;	
 	left: 0;
 	padding-bottom: 22px;
-	padding-left: 0px;
-	padding-left: 21px;
+	width: 99%;
 	padding-top: 22px;
 	position: absolute;
 	top: 323px;
+	width: 100%;
 }
 
 
@@ -374,8 +376,6 @@ footer
 	.mainMenu-item{
 		display: inline-block;
 		border-right: none; ;
-		padding-right:81px;
-		padding-left: 16px;
 		height: 75.5px;
 	}
 	.mainMenu-link{

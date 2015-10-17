@@ -484,8 +484,8 @@ footer{
 .cont-principal{
 	background-color: #eaeaea;
 	overflow: hidden;
-	width: 1024px;
-	margin: 0 auto auto;	
+	margin: 0 auto;
+	width: 90%;	
 }
 
 .cont-secundario{	
@@ -523,12 +523,13 @@ footer{
 
 
 form{
-	width: 80%;
-	margin: 0 auto;
+
 }
 .cont-secundario{
 	margin-bottom: 40px;
-	float: left;
+	float: none;
+	width: 90%;
+	margin: 0 auto;
 	
 }
 
@@ -537,6 +538,13 @@ form{
 	margin-top: 0px;
 	padding-top: 18px;
 	height: 340px;
+	margin-bottom: 40px;
+}
+
+.Busqueda{
+	float: none;
+	width: 90%;
+	margin: 0 auto;
 }
 
 legend{
@@ -551,10 +559,6 @@ legend{
 
 .titulo{
 	margin-left: 30px;
-}
-
-.Paginacion{
-	margin-left: 250px;
 }
 
 .hole{
@@ -638,20 +642,25 @@ legend{
 
 @media screen and (max-width: 900px) {
 
+.cont-principal{
+	width: 90%;
+	margin: 0 auto;
+}	
+
 legend{
-	width: 210px;
+	width: 100%;
 }
 
-.fondo-blanco{
-	width: 210px;
-}
 
 .titulo{
-	width: 150px;
+	width: 50px;
+	float: left;
+	padding-top: 10px;
 }
 
 .formulario{
-	width: 150px;
+	width: 70%;
+	margin: 0 0 20px 0;
 }
 
 .contenedor-search{

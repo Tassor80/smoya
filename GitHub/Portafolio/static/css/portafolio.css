@@ -106,6 +106,7 @@ header
 	display: inline-block;
 	margin-right: 1.8em;
 	margin-bottom: 1.8em;
+	position: relative;
 
 }
 .Work-imageContainer
@@ -139,7 +140,7 @@ header
 	border:none;
 	display: block;
 	margin-bottom: 1em;
-	border-radius: 2em;
+	border-radius: 7px;
 	padding: 0.5em;
 	margin: 0 auto 1em;
 }
@@ -150,7 +151,7 @@ header
 	border:none;
 	display: block;
 	margin-bottom: 1em;
-	border-radius: 2em;
+	border-radius: 7px;
 	padding: 0.5em;
 	margin: 0 auto 1em;
 	resize:none;
