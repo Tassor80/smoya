@@ -12,7 +12,7 @@
 		<nav class="MainMenu">
 			<ul class="MainMenu-list">
 				<li class="MainMenu-item">
-					<a class="MainMenu-link" href="#yo">Yo</a>
+					<a class="MainMenu-link" href="../../sobremi/templates/sobremi.html#sobremi">Sobre mí</a>
 				</li>
 				<li class="MainMenu-item">
 					<a class="MainMenu-link" href="#perfil">Perfil</a>
@@ -30,7 +30,7 @@
 			<figcaption class="Work-description">
 				<a class="Header-link" href="http://twitter.com/tassor80" target="_black">@tassor80</a>
 			</figcaption>
-			<p class="Header-name"> Sergio Moya Gonzalez </p>
+			<p class="Header-name"> Sergio Moya González </p>
 		</figure>
 
 	</header>
@@ -48,37 +48,37 @@
 		<h2 class="Work-title">Mi trabajo</h2>
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<a href="../../jose/templates/jose.html"><img class="Work-image2" src="../static/images/redbility.jpg" alt="Es la descripcion de mi imagen"></a>
+				<a href="../../jose/templates/jose.html"target="_black"><img class="Work-image2" src="../static/images/redbility.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3, responsive Design</figcaption>
 			</figure>
 		</article>
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<img class="Work-image2" src="../static/images/redbility2.jpg" alt="Es la descripcion de mi imagen">
+				<a href="../../jose2/templates/jose2.html"target="_black"><img class="Work-image2" src="../static/images/redbility2.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3</figcaption>
 			</figure>
 		</article>	
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<img class="Work-image2" src="../static/images/woz.jpg" alt="Es la descripcion de mi imagen">
+				<a href="../../wozzeck/index.html"target="_black"><img class="Work-image2" src="../static/images/woz.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3</figcaption>
 			</figure>
 		</article>	
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<img class="Work-image2" src="../static/images/fanontour.jpg" alt="Es la descripcion de mi imagen">
+				<a href="../../fanontour/templates/fanontour.html"target="_black"><img class="Work-image2" src="../static/images/fanontour.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3, responsive Design</figcaption>
 			</figure>
 		</article>	
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<img class="Work-image2" src="../static/images/bq.jpg" alt="Es la descripcion de mi imagen">
+				<a href="../../sergio bq/templates/bq.html"target="_black"><img class="Work-image2" src="../static/images/bq.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3, responsive Design</figcaption>
 			</figure>
 		</article>	
 		<article class="Work-item">
 			<figure class="Work-imageContainer">
-				<img class="Work-image2" src="../static/images/f1.jpg" alt="Es la descripcion de mi imagen">
+				<a href="../../marcadores/templates/marcadores.html"target="_black"><img class="Work-image2" src="../static/images/f1.jpg" alt="Es la descripcion de mi imagen"></a>
 				<figcaption class="Work-description">HTML5, CSS3, responsive Design</figcaption>
 			</figure>
 		</article>		
@@ -90,10 +90,10 @@
 			<h3 class="Footer-title">Contacto</h3>
 			<p class="Footer-description">Si tienes una sugerencia o quieres trabajar conmigo ponte en contacto con este formulario</p>
 		</div>	
-		<form class="footer-form">
-			<input class="Footer-formInput" type="text" placeholder="Nombre"/>
-			<input class="Footer-formInput" type="email" placeholder="Email"/>
-			<textarea class="Footer-textarea"placeholder="Motivo"></textarea>
+		<form class="footer-form" action="../contacto/envio.html" method="post">
+			<input name="nombre" class="Footer-formInput" type="text" placeholder="Nombre"/>
+			<input name="email" class="Footer-formInput" type="email" placeholder="Email"/>
+			<textarea name="motivo" class="Footer-textarea"placeholder="Motivo"></textarea>
 			<button class="Footer-buttom" type="submit">Contactarme</button>
 		</form>
 		

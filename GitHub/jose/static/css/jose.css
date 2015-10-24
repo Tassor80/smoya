@@ -274,6 +274,18 @@ footer
 		line-height: 61.22px;
 	}
 
+	section{
+		text-align: center;
+	}
+
+	li:last-child {
+		display: none;
+	}
+
+	li:nth-child(5) {
+		border-right: none;
+	}
+
 	.mainMenu{
 		background: #232323;
 		height: 75.5px;
@@ -371,7 +383,19 @@ footer
 		height: 75.5px;
 	}
 
-	.mainMenu-list{}
+	.description{
+
+	}
+
+	section{
+		text-align: center;
+	}
+
+	.section-main span{
+	font-size: 35px;
+}
+
+	
 
 	.mainMenu-item{
 		display: inline-block;
