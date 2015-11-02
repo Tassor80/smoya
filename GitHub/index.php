@@ -1,1 +1,1 @@
-<?php header('Location: http://smoya.xyz/Portafolio/templates/portafolio.html'); ?>
+<?php header('Location: http://smoya.xyz/Portafolio/templates/portafolio.php'); ?>

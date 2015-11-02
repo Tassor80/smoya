@@ -95,9 +95,17 @@
 			<input name="email" class="Footer-formInput" type="email" placeholder="Email"/>
 			<textarea name="motivo" class="Footer-textarea"placeholder="Motivo"></textarea>
 			<button class="Footer-buttom" type="submit">Contactarme</button>
+		
+			<?php if(isset($_GET["envio"])){
+				if($_GET["envio"] == "exito"){
+					?> <p class="msj_respuesta exito">El email fué enviado con éxito</p>
+				<?php }else{ ?>
+					<p class="msj_respuesta fallo">Error: No se pudo enviar el email </p>
+				<?php } 
+			} ?>
 		</form>
 		
-	</footer>
 
+	</footer>
 </body>
 </html>

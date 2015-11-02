@@ -24,12 +24,11 @@ exit();
 }else{
 //Es un cliente real, aquí incluimos el código de nuestro formulario
 	if($correo->send()){		
-		echo $_POST["motivo"] . " Nombre: " . $nombre . " Email: " . $email;		
+		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=exito"); 		
+	}	
+	else{
+		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=fallo");
 	}
-	//header("Location: http://www.smoya.xyz?envio=exito"); 
-	
-	//else
-		//header("Location: http://www.smoya.xyz?envio=fallo");
 }
 
 ?>
