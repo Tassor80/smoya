@@ -24,10 +24,10 @@ exit();
 }else{
 //Es un cliente real, aquí incluimos el código de nuestro formulario
 	if($correo->send()){		
-		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=exito"); 		
+		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=exito#contacto"); 		
 	}	
 	else{
-		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=fallo");
+		header("Location: http://smoya.xyz/Portafolio/templates/portafolio.php?envio=fallo#contacto");
 	}
 }
 
