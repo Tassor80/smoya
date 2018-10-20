@@ -19,12 +19,17 @@
 }
 .MainMenu-link
 {
-	color: #00DBFF;
+	color: #fff;
 	text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
     font-size: 16px;
 	line-height: 3.75em;
 	margin-right: 1.5em;
+}
+.MainMenu-link:hover
+{
+	color: orange;
+	
 }
 .yo
 {
@@ -44,12 +49,12 @@ header
 }
 
 .orange{
-	background-color: orange;
+	background-color: #E6E6E6;
 	height: 60px;
 }
 
 .sobremi{
-	color: #fff;
+	color: black;
 	font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 60px;
@@ -62,10 +67,11 @@ header
 	margin: 0 auto;
 }
 
+
 .Texto{
 	font-family: 'Open Sans', sans-serif;
     font-size: 14px;
-    margin-top: 12px;
+    margin-top: 30px;
     line-height: 20px;
 
 }
@@ -74,6 +80,6 @@ header
 	color: orange;
 	font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    margin-top: 12px;
+    margin-top: 30px;
     margin-bottom: 6px;
 }

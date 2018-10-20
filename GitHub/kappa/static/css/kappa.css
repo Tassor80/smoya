@@ -1,0 +1,251 @@
+
+/*HEADER*/
+
+.contprimero{
+	background-color: #aa5e82;
+}
+.fecha{
+	font-family: 'Arial', sans-serif;
+	font-size: 10px;
+	color: #fff;
+	padding-top: 16px;
+	text-align: center;
+}
+.contprimero-list{
+	margin-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.contprimero-item{
+	display: inline-block;
+}
+.contprimero-link{
+	text-decoration: none;
+	font-family: 'Arial', sans-serif;
+	font-size: 10px;
+	color: #fff;
+	margin-right: 5px;
+}
+
+/*iconos*/
+
+.logo{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.contsegundo-list{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.contsegundo-item{
+	display: inline-block;
+}
+.contsegundo-link{
+	margin-right: 26px;
+}
+
+/*contenedor enlaces*/
+
+.conttercero{
+	background-color: #beaba5;
+}
+.conttercero-list{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.conttercero-item{
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.conttercero-link{
+	text-decoration: none;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+	color: #fff;
+	padding-right: 18px;
+}
+.imagen-pequeña{
+	max-width: 100%;	
+}
+
+/*países*/
+
+.ofertas{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-family: 'Impact', AvenirNextCondensed, Arial, sans-serif ;
+	font-size: 26px;
+	color: #785b53;
+}
+.ancho{
+	width: 90%;
+	margin: 0 auto; 
+}
+/*fondo*/
+.fondo1{
+	background-color: #f7f0ee;
+	width: 90%;
+	margin: 0 auto; 
+}
+.ajustar{
+	width: 100%;
+}
+/*últimas ofertas*/
+.color{
+	background-color:  #613b51;
+	height: 40px;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.contpaises-link{
+	text-decoration: none;
+	font-family: 'AvenirNextCondensed', Arial, sans-serif;
+	font-size: 22px;
+	color: #fff;
+	margin-left: 20px;
+}
+.parrafo{
+	padding-left: 12px;
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+	color: #613b51;
+	border-bottom: 1px solid #613b51;
+	padding-bottom: 1.3em;
+	margin-top: 10px;
+	margin-bottom: 18px;
+}
+.continterior-item{
+	margin-bottom: 10px;
+	padding-left: 12px;
+}
+.continterior-link{
+	text-decoration: none;
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+	color: #613b51;
+	margin-left: 7px; 
+}
+.contterminado-item{
+	background-color:  #613b51;
+	height: 40px;
+	padding-bottom: 20px;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+	 
+}
+.contterminado-link{
+	text-decoration: none;
+	font-family: 'Arial', sans-serif;
+	font-size: 12px;
+	color: #fff;
+	
+}
+.z{
+	background-color: white;
+}
+.x{
+	color: #613b51;
+	background-color: #f7f0ee;
+	height: 40px;
+	text-align: center;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+/*Nuevas ofertas*/
+.color2{
+	background-color: #beaba5;
+	height: 40px;
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+/*contenedor banner*/
+.banner-image{
+	width: 100%;
+	margin: 0 auto;
+}
+/*contenedor address*/
+
+.direccion{
+	font-family:'AvenirNextCondensed', Arial, sans-serif, 'Oswald';
+	font-size: 26px;
+	color: #785b53;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.icono-direccion{
+	display:block;
+	margin:auto;
+}
+.direccion2{
+	font-family:'Arial', sans-serif, 'Oswald';
+	font-size: 18px;
+	color: #785b53;
+	text-align: center;
+	margin-top: 20px;
+}
+.adress-item{
+	text-align: center;
+	padding-bottom: 8px;
+}
+.adress-list{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 7px solid #c1ada7;
+}
+.email-correo{
+	font-family:'Arial', sans-serif, 'Oswald';
+	font-size: 14px;
+	color: #666;
+	text-align: center;
+	margin-top: 18px;
+	margin-bottom: 25px
+}
+.adress-link{
+	text-decoration: none;
+	font-family:'Arial', sans-serif, 'Oswald';
+	font-size: 14px;
+	color: #666;
+}
+/*contenedor kapafree final*/
+.contkappafree2{
+	background-color: #613b51;
+}
+.logo2{
+	text-align: center;
+	padding-top:  40px;
+	margin-bottom: 12px;
+}
+.contkappafree2-list{
+	text-align: center;
+	padding-bottom: 40px;
+}
+.contkappafree2-item{
+	display: inline-block;
+}
+/*Footer*/
+.pie-final{
+	font-family:'Arial', sans-serif, 'Oswald';
+	font-size: 11px;
+	color: #613b51;
+	text-align: center;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+
+

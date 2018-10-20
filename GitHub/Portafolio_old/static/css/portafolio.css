@@ -1,0 +1,178 @@
+ .MainMenu
+{
+	background: #1E1E1E;
+	text-align: center;
+	height: 3.75em;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+.MainMenu-list
+{
+	margin: 0;
+	padding: 0;
+}
+.MainMenu-item
+{
+	display: inline-block;
+}
+.MainMenu-link
+{
+	color: #00DBFF;
+	text-decoration: none;
+	line-height: 3.75em;
+	margin-right: 1.5em;
+}
+.yo
+{
+	margin-top: 2.55em;
+	background-image: url('../images/bg_header2.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 350px;
+
+
+}
+header
+{
+	text-align: center;
+	padding: 1.2em 0;
+
+}
+.Work-image
+{
+	border: 5px solid white;
+	border-radius: 50%;
+}
+.Header-link
+{
+	color: white;
+	font-size: 2.2em;
+	font-weight: bold;
+	text-decoration: none;
+}
+.Header-name
+{
+	color: white;
+	font-size: 1.5em;
+	font-weight: 300;
+	margin-top: 0;
+}
+.Perfil-title
+{
+	
+	color: #00CCFF;
+	border-bottom: 2px dashed #00CCFF;
+	font-weight: normal;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	text-align: center;
+
+}
+.Work-title
+{
+	
+	color: #00CCFF;
+	border-bottom: 2px dashed #00CCFF;
+	font-weight: normal;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	text-align: center;
+
+}
+.Perfil
+{
+	text-align: center;
+}
+.Perfil-link
+{
+	background: orange;
+	color: white;
+	text-decoration: none;
+	padding: 0.5em 1em;
+	border-radius: 2em;
+	margin-right: 0.5em;
+}
+.trabajo
+{
+	margin-top: 2em;
+	text-align: center;
+
+}
+.Work-item
+{
+	display: inline-block;
+	margin-right: 1.8em;
+	margin-bottom: 1.8em;
+}
+.Work-imageContainer
+{
+	margin: 0;
+}
+.Work-description
+{
+	font-size: 1.1em;
+	color: #515151;
+	font-style: italic;
+}
+/* footer */
+.contacto
+{
+	
+	background-image: url('../images/bg2.jpg');
+	padding: 2em 0;
+	text-align: center;
+}
+
+.footer-form
+{
+	text-align: center;
+	display: inline-block;
+}
+
+.Footer-formInput
+{
+	background: white;
+	border:none;
+	display: block;
+	margin-bottom: 1em;
+	border-radius: 7px;
+	padding: 0.5em;
+	margin: 0 auto 1em;
+}
+
+.Footer-textarea
+{
+	background: white;
+	border:none;
+	display: block;
+	margin-bottom: 1em;
+	border-radius: 7px;
+	padding: 0.5em;
+	margin: 0 auto 1em;
+	resize:none;
+}
+
+.Footer-buttom
+{
+	background: orange;
+	color: white;
+	border-radius: 1em;
+	border: none;
+	padding: 0.5em 1em;
+
+}
+
+.Footer-title
+{
+	color: white;
+}
+
+.Footer1
+{
+	display: inline-block;
+	width: 56%;
+	text-align: center;
+	vertical-align: top;
+}

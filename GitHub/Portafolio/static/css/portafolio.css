@@ -1,8 +1,10 @@
+
+
  .MainMenu
 {
-	background: #1E1E1E;
+	background: #E6E6E6;
 	text-align: center;
-	height: 3.75em;
+	height: 4.6em;
 	position: fixed;
 	left: 0;
 	right: 0;
@@ -19,31 +21,38 @@
 }
 .MainMenu-link
 {
-	color: #00DBFF;
+	color: black;
 	text-decoration: none;
 	line-height: 3.75em;
 	margin-right: 1.5em;
 }
-.yo
-{
-	margin-top: 2.55em;
-	background-image: url('../images/bg_header2.jpg');
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 350px;
 
-
+.MainMenu-link:hover {
+	color: orange; 
+	
 }
+
 header
 {
 	text-align: center;
-	padding: 1.2em 0;
-
 }
+
+.Header-imageContainer{
+	background-image: url('../images/fotoprincipal.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+
 .Work-image
 {
 	border: 5px solid white;
 	border-radius: 50%;
+}
+.Work-description{
+	padding-top: 50px;
 }
 .Header-link
 {
@@ -51,6 +60,10 @@ header
 	font-size: 2.2em;
 	font-weight: bold;
 	text-decoration: none;
+}
+.Header-link:hover
+{
+	color: orange;
 }
 .Header-name
 {
@@ -61,11 +74,11 @@ header
 }
 .Perfil-title
 {
-	
-	color: #00CCFF;
-	border-bottom: 2px dashed #00CCFF;
+	color: #1d2126;
+	border-bottom: 2px dashed #1d2126;
 	font-weight: normal;
 	font-size: 1.5em;
+	margin-top: 80px;
 	padding-bottom: 0.5em;
 	text-align: center;
 
@@ -73,10 +86,12 @@ header
 .Work-title
 {
 	
-	color: #00CCFF;
-	border-bottom: 2px dashed #00CCFF;
+	color: #1d2126;
+	border-bottom: 2px dashed #1d2126;
 	font-weight: normal;
 	font-size: 1.5em;
+	margin-top: 120px;
+	margin-bottom: 60px;
 	padding-bottom: 0.5em;
 	text-align: center;
 
@@ -85,14 +100,23 @@ header
 {
 	text-align: center;
 }
+
+.Perfil-description{
+	margin-bottom: 40px;
+}
 .Perfil-link
 {
-	background: orange;
+	background: #1d2126;
 	color: white;
 	text-decoration: none;
 	padding: 0.5em 1em;
-	border-radius: 2em;
+	border-radius: 0.4em;
 	margin-right: 0.5em;
+}
+
+.Perfil-link:hover
+{
+	background: orange;
 }
 .trabajo
 {
@@ -110,19 +134,36 @@ header
 {
 	margin: 0;
 }
+.Work-image2:hover {
+  filter: opacity(.5);
+}
+.Work-imageContainer img
+{
+	border: 3px #333 solid;
+}		
 .Work-description
 {
+	margin-top: 50px;
 	font-size: 1.1em;
 	color: #515151;
 	font-style: italic;
 }
+.trabajo .Work-description{
+	margin-top: 0;
+	padding-top: 20px;
+}
+
 /* footer */
 .contacto
 {
 	
-	background-image: url('../images/bg2.jpg');
+	background-color: #1d2126;
 	padding: 2em 0;
 	text-align: center;
+}
+
+.Footer-description{
+	color: white;
 }
 
 .footer-form
@@ -158,12 +199,13 @@ header
 {
 	background: orange;
 	color: white;
-	border-radius: 1em;
+	border-radius: 0.4em;
 	border: none;
 	padding: 0.5em 1em;
-
 }
-
+.Footer-buttom:hover {
+        filter: saturate(230%);
+    }
 .Footer-title
 {
 	color: white;
@@ -176,3 +218,37 @@ header
 	text-align: center;
 	vertical-align: top;
 }
+
+/* Responsive Design */
+
+@media screen and (max-width: 1280px){ 
+     
+.Header-imageContainer{
+	background-image: url('../images/fotoprincipal2.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 855px;
+	width: 100%;
+}
+
+}
+
+@media screen and (max-width: 640px){ 
+     
+.Header-imageContainer{
+	background-image: url('../images/fotoprincipal3.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 400px;
+}
+
+@media screen and (max-width: 342px){ 
+     
+.MainMenu
+{
+	height: 8em;
+}
+
+}
+
